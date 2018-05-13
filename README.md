@@ -1,12 +1,12 @@
 ## Machine-Learning-Project
 Energy Efficiency Analysis-> Predict Heating and Cooling Load of Buildings              
-Energy efficiency
+Energy efficiency:
 Abstract: 
 This study looked into assessing the heating load and cooling load requirements of buildings (that is, energy efficiency) as a function of building parameters.
 Goal: 
-Use neural network (Deep Learning) to predict the heating and cooling load of the building. 
-Use some base Regression models and ensemble and compare r2_score. 
-Adding cooling load and heating load can define the overall load of the apartment. Study the trend of overall load and divide it into three classes, low efficient, high efficient and average efficient. Then train a deep learning model to predict the label. 
+- Use neural network (Deep Learning) to predict the heating and cooling load of the building. 
+- Use some base Regression models and ensemble and compare r2_score. 
+- Adding cooling load and heating load can define the overall load of the apartment. Study the trend of overall load and divide it into three classes, low efficient, high efficient and average efficient. Then train a deep learning model to predict the label. 
  
 Source:
 The dataset was created by Angeliki Xifara and was processed by Athanasios Tsanas, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK).
